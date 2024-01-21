@@ -1,6 +1,6 @@
 {
   "name": "juicer07",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "homework for training purposes only",
   "main": "juicer.mjs",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/MiroQA/JS101-Test-Automation#readme",
   "dependencies": {
-    "juicer": "^1.0.1"
+    "juicer": "^1.0.2"
   },
   "devDependencies": {}
 }
