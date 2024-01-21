@@ -1,0 +1,26 @@
+{
+  "name": "juicer",
+  "version": "1.0.0",
+  "description": "homework for training purposes only",
+  "main": "juicer.mjs",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiroQA/JS101-Test-Automation.git"
+  },
+  "keywords": [
+    "miro",
+    "athlon",
+    "js",
+    "automation",
+    "training"
+  ],
+  "author": "Miro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiroQA/JS101-Test-Automation/issues"
+  },
+  "homepage": "https://github.com/MiroQA/JS101-Test-Automation#readme"
+}
