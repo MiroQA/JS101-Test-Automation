@@ -19,6 +19,7 @@
   ],
   "author": "Miro",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/MiroQA/JS101-Test-Automation/issues"
   },
