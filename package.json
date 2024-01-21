@@ -1,8 +1,8 @@
 {
-  "name": "juicer",
+  "name": "juicer07",
   "version": "1.0.0",
   "description": "homework for training purposes only",
-  "main": "juicer.mjs",
+  "main": "jicer.mjs",
   "scripts": {
     "test": "none"
   },
@@ -19,6 +19,7 @@
   ],
   "author": "Miro",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/MiroQA/JS101-Test-Automation/issues"
   },
